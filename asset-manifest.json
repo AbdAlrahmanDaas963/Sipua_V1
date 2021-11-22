@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Sipua_V1/static/css/main.ca10d837.chunk.css",
+    "main.css": "/Sipua_V1/static/css/main.b25c222b.chunk.css",
     "main.js": "/Sipua_V1/static/js/main.2621a5de.chunk.js",
     "main.js.map": "/Sipua_V1/static/js/main.2621a5de.chunk.js.map",
     "runtime-main.js": "/Sipua_V1/static/js/runtime-main.3cab67ca.js",
@@ -10,13 +10,13 @@
     "static/js/3.afc6e4c2.chunk.js": "/Sipua_V1/static/js/3.afc6e4c2.chunk.js",
     "static/js/3.afc6e4c2.chunk.js.map": "/Sipua_V1/static/js/3.afc6e4c2.chunk.js.map",
     "index.html": "/Sipua_V1/index.html",
-    "static/css/main.ca10d837.chunk.css.map": "/Sipua_V1/static/css/main.ca10d837.chunk.css.map",
+    "static/css/main.b25c222b.chunk.css.map": "/Sipua_V1/static/css/main.b25c222b.chunk.css.map",
     "static/js/2.4169fc4f.chunk.js.LICENSE.txt": "/Sipua_V1/static/js/2.4169fc4f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3cab67ca.js",
     "static/js/2.4169fc4f.chunk.js",
-    "static/css/main.ca10d837.chunk.css",
+    "static/css/main.b25c222b.chunk.css",
     "static/js/main.2621a5de.chunk.js"
   ]
 }
