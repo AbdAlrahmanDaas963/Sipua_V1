@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Sipua_V1/static/css/main.3cbabb14.chunk.css",
-    "main.js": "/Sipua_V1/static/js/main.09742141.chunk.js",
-    "main.js.map": "/Sipua_V1/static/js/main.09742141.chunk.js.map",
+    "main.css": "/Sipua_V1/static/css/main.2bf9d1ea.chunk.css",
+    "main.js": "/Sipua_V1/static/js/main.f99a0a73.chunk.js",
+    "main.js.map": "/Sipua_V1/static/js/main.f99a0a73.chunk.js.map",
     "runtime-main.js": "/Sipua_V1/static/js/runtime-main.c7ec6b72.js",
     "runtime-main.js.map": "/Sipua_V1/static/js/runtime-main.c7ec6b72.js.map",
     "static/js/2.06b60da5.chunk.js": "/Sipua_V1/static/js/2.06b60da5.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.f37d2847.chunk.js": "/Sipua_V1/static/js/3.f37d2847.chunk.js",
     "static/js/3.f37d2847.chunk.js.map": "/Sipua_V1/static/js/3.f37d2847.chunk.js.map",
     "index.html": "/Sipua_V1/index.html",
-    "static/css/main.3cbabb14.chunk.css.map": "/Sipua_V1/static/css/main.3cbabb14.chunk.css.map",
+    "static/css/main.2bf9d1ea.chunk.css.map": "/Sipua_V1/static/css/main.2bf9d1ea.chunk.css.map",
     "static/js/2.06b60da5.chunk.js.LICENSE.txt": "/Sipua_V1/static/js/2.06b60da5.chunk.js.LICENSE.txt",
     "static/media/image-from-rawpixel-id-1230651-original.3c6e4454.png": "/Sipua_V1/static/media/image-from-rawpixel-id-1230651-original.3c6e4454.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c7ec6b72.js",
     "static/js/2.06b60da5.chunk.js",
-    "static/css/main.3cbabb14.chunk.css",
-    "static/js/main.09742141.chunk.js"
+    "static/css/main.2bf9d1ea.chunk.css",
+    "static/js/main.f99a0a73.chunk.js"
   ]
 }
