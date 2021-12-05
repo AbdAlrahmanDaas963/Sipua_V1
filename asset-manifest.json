@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Sipua_V1/static/css/main.e62b5248.chunk.css",
-    "main.js": "/Sipua_V1/static/js/main.886cbad7.chunk.js",
-    "main.js.map": "/Sipua_V1/static/js/main.886cbad7.chunk.js.map",
-    "runtime-main.js": "/Sipua_V1/static/js/runtime-main.0757461d.js",
-    "runtime-main.js.map": "/Sipua_V1/static/js/runtime-main.0757461d.js.map",
-    "static/js/2.b5c52caf.chunk.js": "/Sipua_V1/static/js/2.b5c52caf.chunk.js",
-    "static/js/2.b5c52caf.chunk.js.map": "/Sipua_V1/static/js/2.b5c52caf.chunk.js.map",
-    "static/js/3.1072dfcc.chunk.js": "/Sipua_V1/static/js/3.1072dfcc.chunk.js",
-    "static/js/3.1072dfcc.chunk.js.map": "/Sipua_V1/static/js/3.1072dfcc.chunk.js.map",
+    "main.css": "/Sipua_V1/static/css/main.533dce9e.chunk.css",
+    "main.js": "/Sipua_V1/static/js/main.707a961c.chunk.js",
+    "main.js.map": "/Sipua_V1/static/js/main.707a961c.chunk.js.map",
+    "runtime-main.js": "/Sipua_V1/static/js/runtime-main.a4c987ab.js",
+    "runtime-main.js.map": "/Sipua_V1/static/js/runtime-main.a4c987ab.js.map",
+    "static/js/2.089e9aae.chunk.js": "/Sipua_V1/static/js/2.089e9aae.chunk.js",
+    "static/js/2.089e9aae.chunk.js.map": "/Sipua_V1/static/js/2.089e9aae.chunk.js.map",
+    "static/js/3.bbae55bf.chunk.js": "/Sipua_V1/static/js/3.bbae55bf.chunk.js",
+    "static/js/3.bbae55bf.chunk.js.map": "/Sipua_V1/static/js/3.bbae55bf.chunk.js.map",
     "index.html": "/Sipua_V1/index.html",
-    "static/css/main.e62b5248.chunk.css.map": "/Sipua_V1/static/css/main.e62b5248.chunk.css.map",
-    "static/js/2.b5c52caf.chunk.js.LICENSE.txt": "/Sipua_V1/static/js/2.b5c52caf.chunk.js.LICENSE.txt",
+    "static/css/main.533dce9e.chunk.css.map": "/Sipua_V1/static/css/main.533dce9e.chunk.css.map",
+    "static/js/2.089e9aae.chunk.js.LICENSE.txt": "/Sipua_V1/static/js/2.089e9aae.chunk.js.LICENSE.txt",
     "static/media/hour.450b85ed.jpg": "/Sipua_V1/static/media/hour.450b85ed.jpg",
     "static/media/image-from-rawpixel-id-1230651-original.3c6e4454.png": "/Sipua_V1/static/media/image-from-rawpixel-id-1230651-original.3c6e4454.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0757461d.js",
-    "static/js/2.b5c52caf.chunk.js",
-    "static/css/main.e62b5248.chunk.css",
-    "static/js/main.886cbad7.chunk.js"
+    "static/js/runtime-main.a4c987ab.js",
+    "static/js/2.089e9aae.chunk.js",
+    "static/css/main.533dce9e.chunk.css",
+    "static/js/main.707a961c.chunk.js"
   ]
 }
