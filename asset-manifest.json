@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Sipua_V1/static/css/main.558a36a8.chunk.css",
-    "main.js": "/Sipua_V1/static/js/main.1083e4ce.chunk.js",
-    "main.js.map": "/Sipua_V1/static/js/main.1083e4ce.chunk.js.map",
+    "main.css": "/Sipua_V1/static/css/main.15f3bbe9.chunk.css",
+    "main.js": "/Sipua_V1/static/js/main.ae84bcd2.chunk.js",
+    "main.js.map": "/Sipua_V1/static/js/main.ae84bcd2.chunk.js.map",
     "runtime-main.js": "/Sipua_V1/static/js/runtime-main.fd905ca5.js",
     "runtime-main.js.map": "/Sipua_V1/static/js/runtime-main.fd905ca5.js.map",
     "static/js/2.259580d8.chunk.js": "/Sipua_V1/static/js/2.259580d8.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.34911c63.chunk.js": "/Sipua_V1/static/js/3.34911c63.chunk.js",
     "static/js/3.34911c63.chunk.js.map": "/Sipua_V1/static/js/3.34911c63.chunk.js.map",
     "index.html": "/Sipua_V1/index.html",
-    "static/css/main.558a36a8.chunk.css.map": "/Sipua_V1/static/css/main.558a36a8.chunk.css.map",
+    "static/css/main.15f3bbe9.chunk.css.map": "/Sipua_V1/static/css/main.15f3bbe9.chunk.css.map",
     "static/js/2.259580d8.chunk.js.LICENSE.txt": "/Sipua_V1/static/js/2.259580d8.chunk.js.LICENSE.txt",
     "static/media/hour.450b85ed.jpg": "/Sipua_V1/static/media/hour.450b85ed.jpg",
     "static/media/image-from-rawpixel-id-1230651-original.3c6e4454.png": "/Sipua_V1/static/media/image-from-rawpixel-id-1230651-original.3c6e4454.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.fd905ca5.js",
     "static/js/2.259580d8.chunk.js",
-    "static/css/main.558a36a8.chunk.css",
-    "static/js/main.1083e4ce.chunk.js"
+    "static/css/main.15f3bbe9.chunk.css",
+    "static/js/main.ae84bcd2.chunk.js"
   ]
 }
