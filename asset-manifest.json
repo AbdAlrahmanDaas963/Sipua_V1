@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Sipua_V1/static/css/main.e982fae8.chunk.css",
-    "main.js": "/Sipua_V1/static/js/main.5a08f593.chunk.js",
-    "main.js.map": "/Sipua_V1/static/js/main.5a08f593.chunk.js.map",
-    "runtime-main.js": "/Sipua_V1/static/js/runtime-main.0c4afeff.js",
-    "runtime-main.js.map": "/Sipua_V1/static/js/runtime-main.0c4afeff.js.map",
-    "static/js/2.8a571833.chunk.js": "/Sipua_V1/static/js/2.8a571833.chunk.js",
-    "static/js/2.8a571833.chunk.js.map": "/Sipua_V1/static/js/2.8a571833.chunk.js.map",
-    "static/js/3.315c032d.chunk.js": "/Sipua_V1/static/js/3.315c032d.chunk.js",
-    "static/js/3.315c032d.chunk.js.map": "/Sipua_V1/static/js/3.315c032d.chunk.js.map",
+    "main.css": "/Sipua_V1/static/css/main.38a65e92.chunk.css",
+    "main.js": "/Sipua_V1/static/js/main.255df11f.chunk.js",
+    "main.js.map": "/Sipua_V1/static/js/main.255df11f.chunk.js.map",
+    "runtime-main.js": "/Sipua_V1/static/js/runtime-main.37209d10.js",
+    "runtime-main.js.map": "/Sipua_V1/static/js/runtime-main.37209d10.js.map",
+    "static/js/2.e23c62bf.chunk.js": "/Sipua_V1/static/js/2.e23c62bf.chunk.js",
+    "static/js/2.e23c62bf.chunk.js.map": "/Sipua_V1/static/js/2.e23c62bf.chunk.js.map",
+    "static/js/3.8d2c7d17.chunk.js": "/Sipua_V1/static/js/3.8d2c7d17.chunk.js",
+    "static/js/3.8d2c7d17.chunk.js.map": "/Sipua_V1/static/js/3.8d2c7d17.chunk.js.map",
     "index.html": "/Sipua_V1/index.html",
-    "static/css/main.e982fae8.chunk.css.map": "/Sipua_V1/static/css/main.e982fae8.chunk.css.map",
-    "static/js/2.8a571833.chunk.js.LICENSE.txt": "/Sipua_V1/static/js/2.8a571833.chunk.js.LICENSE.txt",
+    "static/css/main.38a65e92.chunk.css.map": "/Sipua_V1/static/css/main.38a65e92.chunk.css.map",
+    "static/js/2.e23c62bf.chunk.js.LICENSE.txt": "/Sipua_V1/static/js/2.e23c62bf.chunk.js.LICENSE.txt",
     "static/media/hour.450b85ed.jpg": "/Sipua_V1/static/media/hour.450b85ed.jpg",
     "static/media/image-from-rawpixel-id-1230651-original.3c6e4454.png": "/Sipua_V1/static/media/image-from-rawpixel-id-1230651-original.3c6e4454.png",
     "static/media/index.css": "/Sipua_V1/static/media/mouse.ea45ca09.svg",
     "static/media/unsplash.7700c0f3.png": "/Sipua_V1/static/media/unsplash.7700c0f3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c4afeff.js",
-    "static/js/2.8a571833.chunk.js",
-    "static/css/main.e982fae8.chunk.css",
-    "static/js/main.5a08f593.chunk.js"
+    "static/js/runtime-main.37209d10.js",
+    "static/js/2.e23c62bf.chunk.js",
+    "static/css/main.38a65e92.chunk.css",
+    "static/js/main.255df11f.chunk.js"
   ]
 }
